@@ -1,0 +1,12 @@
+body {
+  background-color: #c9b5ab;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: PT Sans;
+}
+
+ol > nav {
+  color: #c9b5ab;
+}
