@@ -2,7 +2,7 @@ body {
   background-color: #c9b5ab;
 }
 
-h1 {
+h1, h2 {
   color: #3f1622;
   font-family: PT Sans;
 }
@@ -12,6 +12,7 @@ a:link {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.125rem;
+  font-family: PT Sans;
 }
 
 img {
@@ -26,4 +27,12 @@ figcaption {
 main p:first-child {
   font-weight: bold;
   font-size: 1.5rem;
+}
+
+.two {
+  font-family: 'PT Serif', serif;
+}
+
+blockquote {
+  font-family: 'PT Serif', serif;
 }
