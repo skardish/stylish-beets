@@ -11,6 +11,10 @@ h1, h2 {
   font-weight: bold;
 }
 
+nav ol {
+  list-style-type: none;
+}
+
 a {
   color: #8f2440;
   text-decoration: none;
@@ -29,10 +33,6 @@ footer a {
   font-size: 0.8rem;
 }
 
-nav ol {
-  list-style-type: none;
-}
-
 img {
   width: 100%;
 }
@@ -40,6 +40,7 @@ img {
 figcaption {
   font-style: italic;
   text-align: center;
+  font-size: 0.8rem;
 }
 
 main p:first-child {
